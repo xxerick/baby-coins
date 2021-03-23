@@ -1,0 +1,24 @@
+{
+  "name": "tokyocoinsbybaby",
+  "version": "1.0.0",
+  "description": "- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui nunc mattis enim ut. Aliquet nec ullamcorper sit amet risus. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit. Amet justo donec enim diam vulputate ut. Id leo in vitae turpis massa sed elementum. Aenean vel elit scelerisque mauris pellentesque. Aliquam vestibulum morbi blandit cursus risus at ultrices. Augue neque gravida in fermentum et sollicitudin ac. Tristique senectus et netus et malesuada. Cursus in hac habitasse platea dictumst quisque sagittis. Luctus accumsan tortor posuere ac ut consequat semper. Eros donec ac odio tempor. Sit amet nisl purus in mollis. Sit amet tellus cras adipiscing enim eu turpis. Elit sed vulputate mi sit amet mauris commodo. Nunc vel risus commodo viverra maecenas accumsan lacus.",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chance": "^1.1.7",
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.3.1",
+    "fs": "^0.0.1-security",
+    "js-logger": "^1.6.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "mysql2": "^2.1.0",
+    "recursive-readdir": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
