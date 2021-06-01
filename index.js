@@ -7,7 +7,7 @@ DATABASE.DB.connect(function(err) {if (err) throw LOGGER.error(err);LOGGER.info(
 
 /////* || [LOG] || */////
 LOGGER.info(`Starting bot...`);
-
+ 
 /////* || [CONST] || */////
 const DISCORD = require("discord.js");
 const WEBHOOK = require('discord-webhook-node');
