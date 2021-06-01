@@ -9,7 +9,7 @@ DATABASE.DB.connect(function(err) {if (err) throw LOGGER.error(err);LOGGER.info(
 LOGGER.info(`Starting bot...`);
  
 /////* || [CONST] || */////
-const DISCORD = require("discord.js");
+const DISCORD = require("discord.js"); 
 const WEBHOOK = require('discord-webhook-node');
 const HOOK = new WEBHOOK.Webhook(CONFIG.WEBHOOK);
 //const ENMAP = require("enmap");
