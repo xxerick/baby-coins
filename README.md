@@ -1,16 +1,16 @@
-# Créer par baby#1337 
+# Created by `baby#1337`
 
 ## Step  1:
-Config le baby-coins\INITIALIZATION\config.js
+- Config the **baby-coins\INITIALIZATION\config.js**
 
 ## Step  2:
-Create a db with the name you want, then run the following sql code in it: **baby-coins\babycoins.sql**
+- Create a db with the name you want, then run the following sql code in it: **baby-coins\babycoins.sql**
 
 ## Step  3:
-Open the terminal, execute the command "**npm install**"
+- Open the terminal, execute the command "**npm install**"
 
 ## Step  4:
-Start index.js
+- Start **index.js**
 
 
 --------------------------------------------------------
